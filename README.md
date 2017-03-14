@@ -12,3 +12,6 @@ It's a simple quine but it doesn't have a declared main only define
 
 ## Sully
 It's the funniest one. The program replicate and execute himself as many times as specified in the source code
+
+## Quine_maker
+There are some tools which create a quine from a normal program with some condition# Dr_quine
